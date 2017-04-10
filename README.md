@@ -10,14 +10,16 @@ Observed variation between human ancient DNA samples and modern DNA samples prov
 
 | Date | Presentation | Presenter |
 |------|--------------|-----------|
-| April 11 | Ancestry and demography and descendants of Iron Age nomads of the Eurasian Steppe | Julia |
-| April 18 | Nuclear and mitochondrial DNA sequences from two Denisovan individuals| XX |
-| April 25 |[Inference for Nonlinear Epidemiological Models Using Genealogies and Time Series](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002136) | Mingwei |
-| May 2 | no meeting | |
-| May 9 | Research update | Amrit |
-| May 16 | Research update | Michael |
-| May 23 | likely cancelled | |
-| May 30 | Practice general exam | Jon |
+| April 11 |[Ancient X chromosomes reveal contrasting sex bias in Neolithic and Bronze Age Eurasian migrations] (http://www.pnas.org/content/114/10/2657.abstract.html)| Amy |
+| April 18 | [Nuclear and mitochondrial DNA sequences from two Denisovan individuals](http://www.pnas.org/content/112/51/15696.full.pdf)| Julia |
+| April 25 |[Ancestry and demography and descendants of Iron Age nomads of the Eurasian Steppe](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002136) | Julia |
+| May 2 |  | |
+| May 9 |  | XX |
+| May 16 |  | XX |
+| May 23 | | |
+| May 30 |  | XX |
+| Jun 6  | | XX |
+
 
 Put yourself on the calendar like this:
 ```
