@@ -12,13 +12,12 @@ Observed variation between human ancient DNA samples and modern DNA samples prov
 |------|--------------|-----------|
 | April 11 | [Ancient X chromosomes reveal contrasting sex bias in Neolithic and Bronze Age Eurasian migrations](http://www.pnas.org/content/114/10/2657.abstract.html)| Amy |
 | April 11 | [Nuclear and mitochondrial DNA sequences from two Denisovan individuals](http://www.pnas.org/content/112/51/15696.full.pdf)| Julia |
-| April 18 | [Ancestry and demography and descendants of Iron Age nomads of the Eurasian Steppe](http://www.nature.com/articles/ncomms14615) | XX |
-| April 18 |[An early modern human from Romania with a recent Neanderthal ancestor](http://www.nature.com/nature/journal/v524/n7564/full/nature14558.html) | XX |
-| April 25 |[Upper Palaeolithic genomes reveal depp roots of modern Eurasians](http://www.nature.com/articles/ncomms9912) | XX |
-| April 25 |[Punctuated bursts in human male demography inferred from 1,244 worldwide Y-chromosome sequences](http://www.nature.com/ng/journal/v48/n6/full/ng.3559.html)| XX |
-| May 2 | [Genomic insights into the origin of farming in the ancient Near East](http://www.nature.com/nature/journal/v536/n7617/abs/nature19310.html)| XX |
-| May 2 |[Ancient gene flow from early modern
-humans into Eastern Neanderthals](http://www.nature.com/nature/journal/v530/n7591/full/nature16544.html)| XX |
+| April 18 | [Ancestry and demography and descendants of Iron Age nomads of the Eurasian Steppe](http://www.nature.com/articles/ncomms14615) | XY |
+| April 18 |[An early modern human from Romania with a recent Neanderthal ancestor](http://www.nature.com/nature/journal/v524/n7564/full/nature14558.html) | XY |
+| April 25 |[Upper Palaeolithic genomes reveal depp roots of modern Eurasians](http://www.nature.com/articles/ncomms9912) | XY |
+| April 25 |[Punctuated bursts in human male demography inferred from 1,244 worldwide Y-chromosome sequences](http://www.nature.com/ng/journal/v48/n6/full/ng.3559.html)| XY |
+| May 2 | [Genomic insights into the origin of farming in the ancient Near East](http://www.nature.com/nature/journal/v536/n7617/abs/nature19310.html)| XY |
+| May 2 |[Ancient gene flow from early modern humans into Eastern Neanderthals](http://www.nature.com/nature/journal/v530/n7591/full/nature16544.html)| XX |
 | May 9 |[]  | XX |
 | May 16 |  | XX |
 | May 23 | | |
