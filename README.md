@@ -10,7 +10,7 @@ Observed variation between human ancient DNA samples and modern DNA samples prov
 
 | Date | Presentation | Presenter |
 |------|--------------|-----------|
-| April 11 |[Ancient X chromosomes reveal contrasting sex bias in Neolithic and Bronze Age Eurasian migrations] (http://www.pnas.org/content/114/10/2657.abstract.html)| Amy |
+| April 11 | [Ancient X chromosomes reveal contrasting sex bias in Neolithic and Bronze Age Eurasian migrations](http://www.pnas.org/content/114/10/2657.abstract.html)| Amy |
 | April 18 | [Nuclear and mitochondrial DNA sequences from two Denisovan individuals](http://www.pnas.org/content/112/51/15696.full.pdf)| Julia |
 | April 25 |[Ancestry and demography and descendants of Iron Age nomads of the Eurasian Steppe](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002136) | Julia |
 | May 2 |  | |
