@@ -18,7 +18,7 @@ Observed variation between human ancient DNA samples and modern DNA samples prov
 | April 25 |[Punctuated bursts in human male demography inferred from 1,244 worldwide Y-chromosome sequences](http://www.nature.com/ng/journal/v48/n6/full/ng.3559.html)| XY |
 | May 2 | [Genomic insights into the origin of farming in the ancient Near East](http://www.nature.com/nature/journal/v536/n7617/abs/nature19310.html)| XY |
 | May 2 |[Ancient gene flow from early modern humans into Eastern Neanderthals](http://www.nature.com/nature/journal/v530/n7591/full/nature16544.html)| XX |
-| May 9 |[]  | XX |
+| May 9 |[The genetic history of Ice Age Europe](http://www.nature.com/nature/journal/v534/n7606/full/nature17993.html)  | XX |
 | May 16 |  | XX |
 | May 23 | | |
 | May 30 |  | XX |
