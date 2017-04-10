@@ -27,4 +27,4 @@ Observed variation between human ancient DNA samples and modern DNA samples prov
 
 Put yourself on the calendar like this:
 ```
-| May 16   | [paper](https://github.com/vnminin/stoch_mod_journal_club/issues/1) | Julia |
+| May 16   | [paper](https://...) | Julia |
