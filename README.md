@@ -15,7 +15,7 @@ Observed variation between human ancient DNA samples and modern DNA samples prov
 | April 18 | [Ancestry and demography and descendants of Iron Age nomads of the Eurasian Steppe](http://www.nature.com/articles/ncomms14615) | XY |
 | April 18 |[An early modern human from Romania with a recent Neanderthal ancestor](http://www.nature.com/nature/journal/v524/n7564/full/nature14558.html) | XY |
 | April 25 |[Upper Palaeolithic genomes reveal depp roots of modern Eurasians](http://www.nature.com/articles/ncomms9912) | XY |
-| April 25 |[Punctuated bursts in human male demography inferred from 1,244 worldwide Y-chromosome sequences](http://www.nature.com/ng/journal/v48/n6/full/ng.3559.html)| XY |
+| April 25 |[Punctuated bursts in human male demography inferred from 1,244 worldwide Y-chromosome sequences](http://www.nature.com/ng/journal/v48/n6/full/ng.3559.html)| Joey |
 | May 2 | [Genomic insights into the origin of farming in the ancient Near East](http://www.nature.com/nature/journal/v536/n7617/abs/nature19310.html)| Mamie |
 | May 2 |[Ancient gene flow from early modern humans into Eastern Neanderthals](http://www.nature.com/nature/journal/v530/n7591/full/nature16544.html)| XY |
 | May 9 |[The genetic history of Ice Age Europe](http://www.nature.com/nature/journal/v534/n7606/full/nature17993.html)  | XY |
