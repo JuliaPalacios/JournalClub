@@ -1,4 +1,4 @@
-# JournalClub Spring 2017
+# Journal Club Spring 2017
 
 *Time*: Tuesdays, 2:00 pm - 3:00 pm
 
