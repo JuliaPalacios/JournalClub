@@ -14,6 +14,7 @@ Observed variation between human ancient DNA samples and modern DNA samples prov
 | April 18 | [Nuclear and mitochondrial DNA sequences from two Denisovan individuals](http://www.pnas.org/content/112/51/15696.full.pdf)| Julia |
 | April 25 |[Punctuated bursts in human male demography inferred from 1,244 worldwide Y-chromosome sequences](http://www.nature.com/ng/journal/v48/n6/full/ng.3559.html)| Joey |
 | May 2 | [Genomic insights into the origin of farming in the ancient Near East](http://www.nature.com/nature/journal/v536/n7617/abs/nature19310.html)| Mamie |
+| May 9 | [The strength of selection agains Neanderthal Introgression](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006340)| Natalie |
 | XX | [Ancestry and demography and descendants of Iron Age nomads of the Eurasian Steppe](http://www.nature.com/articles/ncomms14615) | XY |
 | XX |[An early modern human from Romania with a recent Neanderthal ancestor](http://www.nature.com/nature/journal/v524/n7564/full/nature14558.html) | XY |
 | XX |[Upper Palaeolithic genomes reveal deep roots of modern Eurasians](http://www.nature.com/articles/ncomms9912) | XY |
