@@ -14,7 +14,7 @@ Observed variation between human ancient DNA samples and modern DNA samples prov
 | April 18 | [Nuclear and mitochondrial DNA sequences from two Denisovan individuals](http://www.pnas.org/content/112/51/15696.full.pdf)| Julia |
 | April 25 |[Punctuated bursts in human male demography inferred from 1,244 worldwide Y-chromosome sequences](http://www.nature.com/ng/journal/v48/n6/full/ng.3559.html)| Joey |
 | May 2 | [Genomic insights into the origin of farming in the ancient Near East](http://www.nature.com/nature/journal/v536/n7617/abs/nature19310.html)| Mamie |
-| May 9 | [The strength of selection agains Neanderthal Introgression](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006340)| Natalie |
+| May 9 | [The strength of selection against Neanderthal Introgression](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006340)| Natalie |
 | May 16 |[The Genetic Cost of Neanderthal Introgression](http://www.genetics.org/content/203/2/881?__hstc=13887208.7debc8575bac5a80cf7e168316af0c9b.1474502400052.1474502400053.1474502400054.1&__hssc=13887208.1.1474502400055&__hsfp=1773666937) | Kelley? |
 | XX | [Ancestry and demography and descendants of Iron Age nomads of the Eurasian Steppe](http://www.nature.com/articles/ncomms14615) | XY |
 | XX |[An early modern human from Romania with a recent Neanderthal ancestor](http://www.nature.com/nature/journal/v524/n7564/full/nature14558.html) | XY |
