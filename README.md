@@ -9,11 +9,13 @@ Bayesian modeling of massive data is computationally challenging and some algori
 
 | Date | Presentation | Presenter |
 |------|--------------|-----------|
-| April 18 | [A Divide-and-Conquer Bayesian Approach to Large-Scale Kriging](https://arxiv.org/pdf/1712.09767.pdf)| Someone |
+| April 18 | | Lorenzo |
 | April 25 | Something | James |
 | May 2 | |Jelena  |
-
-
+|May 11| (morning)| Julia|
+|May 16| |Kely|
+|May 23| | Mamie|
+|May 30| |Paulo |
 
 Put yourself on the calendar like this:
 ```
