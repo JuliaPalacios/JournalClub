@@ -3,7 +3,7 @@
 
 *Location*: Fishbowl
 
-Bayesian modeling of massive data is computationally challenging and some algorithms such as ABC and MCMC are notoriously expensive. We will discuss recently proposed strategies to over this problem.   
+Bayesian modeling of massive data is computationally challenging and some algorithms such as ABC and MCMC are notoriously expensive. We will discuss recently proposed strategies to overcome this problem.   
 
 *Schedule* (Open an issue if you want to suggest a paper to read):
 
