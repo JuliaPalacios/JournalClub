@@ -13,7 +13,7 @@ Bayesian modeling of massive data is computationally challenging and some algori
 | April 25 | Something | James |
 | May 2 | |Jelena  |
 |May 11| (morning)| Julia|
-|May 16| |Kely|
+|May 16| |Keli|
 |May 23| | Mamie|
 |May 30| |Paulo |
 
