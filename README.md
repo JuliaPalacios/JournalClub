@@ -9,9 +9,9 @@ Bayesian modeling of massive data is computationally challenging and some algori
 
 | Date | Presentation | Presenter |
 |------|--------------|-----------|
-| April 18 | [Ancient X chromosomes reveal contrasting sex bias in Neolithic and Bronze Age Eurasian migrations](http://www.pnas.org/content/114/10/2657.abstract.html)| Julia |
-| April 25 | [Ancient X chromosomes reveal contrasting sex bias in Neolithic and Bronze Age Eurasian migrations](http://www.pnas.org/content/114/10/2657.abstract.html)| Julia |
-| May 2 | [Ancient X chromosomes reveal contrasting sex bias in Neolithic and Bronze Age Eurasian migrations](http://www.pnas.org/content/114/10/2657.abstract.html)| Julia |
+| April 18 | [A Divide-and-Conquer Bayesian Approach to Large-Scale Kriging](https://arxiv.org/pdf/1712.09767.pdf)| Someone |
+| April 25 | [Scalable and robust Bayesian inference via the median posterior](http://proceedings.mlr.press/v32/minsker14.pdf)| Someone |
+| May 2 | |  |
 
 
 
