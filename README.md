@@ -14,7 +14,7 @@ Bayesian modeling of massive data is computationally challenging and some algori
 | May 2 | |Jelena  |
 |May 11 (morining)|[Scalable and Robust Bayesian Inference via the Median Posterior](http://proceedings.mlr.press/v32/minsker14.pdf)| Julia|
 |May 16| |Keli|
-|May 23| | Mamie|
+|May 23| [Asymptotically Exact, Embarrassingly Parallel MCMC](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1144&context=machine_learning)| Mamie|
 |May 30| |Paulo |
 
 Put yourself on the calendar like this:
