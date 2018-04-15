@@ -9,7 +9,7 @@ Bayesian modeling of massive data is computationally challenging and some algori
 
 | Date | Presentation | Presenter |
 |------|--------------|-----------|
-| April 18 | | Lorenzo |
+| April 18 | [Covariances, Robustness, and Variational Bayes] (https://arxiv.org/abs/1709.02536) | Lorenzo |
 | April 25 | Something | James |
 | May 2 | |Jelena  |
 |May 11 (10am Fishbowl)|[Scalable and Robust Bayesian Inference via the Median Posterior](http://proceedings.mlr.press/v32/minsker14.pdf)| Julia|
