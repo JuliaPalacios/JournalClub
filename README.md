@@ -11,7 +11,7 @@ Bayesian modeling of massive data is computationally challenging and some algori
 |------|--------------|-----------|
 | April 18 | [Covariances, Robustness, and Variational Bayes](https://arxiv.org/abs/1709.02536) | Lorenzo |
 | April 25 | [Own research]| James |
-| May 2 | |Jelena  |
+| May 2 | Bouncy Hybrid Sampler[https://arxiv.org/pdf/1802.04366.pdf] |Jelena  |
 |May 11 (10am Fishbowl)|[Scalable and Robust Bayesian Inference via the Median Posterior](http://proceedings.mlr.press/v32/minsker14.pdf)| Julia|
 |May 16| |Keli|
 |May 23| [Asymptotically Exact, Embarrassingly Parallel MCMC](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1144&context=machine_learning)| Mamie|
