@@ -1,0 +1,11 @@
+# LaTeX generated #
+*.aux
+*.log
+*.blg
+*.out
+*.synctex.gz
+*.bbl
+*.pdf
+*.toc
+*.nav
+*.snm
