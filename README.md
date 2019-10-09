@@ -13,8 +13,7 @@ Bayesian modeling of massive data is computationally challenging and some algori
 | October 22 |[Information Constraints on Auto-Encoding Variational Bayes](https://arxiv.org/abs/1805.08672) | Jaehee | |
 | November 5 |[Hierarchical Representations with Poincaré Variational Auto-Encoders](https://arxiv.org/abs/1901.06033) |  | |
 | November 19|[Augmented Neural ODEs](https://arxiv.org/abs/1904.01681) || |
-| December 3 |[Informed Proposals for Local MCMC in Discrete
-Spaces](https://www.tandfonline.com/doi/full/10.1080/01621459.2019.1585255)|| |
+| December 3 |[Informed Proposals for Local MCMC in Discrete Spaces](https://www.tandfonline.com/doi/full/10.1080/01621459.2019.1585255)|| |
 
 Put yourself on the calendar like this:
 ```
