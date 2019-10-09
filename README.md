@@ -10,15 +10,10 @@ Bayesian modeling of massive data is computationally challenging and some algori
 | Date | Presentation | Presenter | Summary |
 |------|--------------|-----------|---------|
 | October 8 | [Hierarchical Decompositional Mixtures of Variational Autoencoders](http://proceedings.mlr.press/v97/tan19b.html) | Julia | We discussed background on Autoencoders and Variational Autoencoders and very briefly the SPN extra layer (hierarchy) in the VAE proposed in the paper.|
-| October 22 |[Information Constraints on Auto-Encoding Variational Bayes](https://arxiv.org/abs/1805.08672) | Jaehee |
-| May 2 | [Multiscale Spatial Density Smoothing: An
-Application to Large-Scale Radiological Survey and
-Anomaly Detection](https://www.tandfonline.com/doi/full/10.1080/01621459.2016.1276461) |  |
-|May 11|[Modeling Population Structure Under
-Hierarchical Dirichlet Processes](http://proceedings.mlr.press/v32/minsker14.pdf)| |
-|May 16|[Augmented Neural ODEs](https://arxiv.org/abs/1904.01681) ||
-|May 23| [Asymptotically Exact, Embarrassingly Parallel MCMC](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1144&context=machine_learning)| Mamie|
-|May 30| |Paulo |
+| October 22 |[Information Constraints on Auto-Encoding Variational Bayes](https://arxiv.org/abs/1805.08672) | Jaehee | |
+| November 5 |[Hierarchical Representations with Poincaré Variational Auto-Encoders](https://arxiv.org/abs/1901.06033) |  | |
+| November 19|[Augmented Neural ODEs](https://arxiv.org/abs/1904.01681) || |
+| December 3 |[]|| |
 
 Put yourself on the calendar like this:
 ```
