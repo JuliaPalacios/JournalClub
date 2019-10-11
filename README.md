@@ -1,4 +1,4 @@
-# All things Bayes and MCMC
+# All things Bayes 
 *Time*: Tuesday, 2:00 pm - 3:00 pm (once every other week or by demand)
 
 *Location*: Fishbowl
