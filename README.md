@@ -13,7 +13,8 @@ Bayesian modeling of massive data is computationally challenging and some algori
 | October 22 |[Information Constraints on Auto-Encoding Variational Bayes](https://arxiv.org/abs/1805.08672) | Jaehee | |
 | November 5 |[Hierarchical Representations with Poincaré Variational Auto-Encoders](https://arxiv.org/abs/1901.06033) |Airam  | |
 | November 19|Tutorial on Variational Autoencoders by Scott Linderman || |
-| December 3| [Model criticism in latent space](https://projecteuclid.org/download/pdfview_1/euclid.ba/1560240024)|| |
+| December 3 | [Bayesian cluster analysis](https://projecteuclid.org/euclid.ba/1508378464)| Lorenzo| |
+| Later | [Model criticism in latent space](https://projecteuclid.org/download/pdfview_1/euclid.ba/1560240024)|| |
 | Later |[Augmented Neural ODEs](https://arxiv.org/abs/1904.01681) || |
 | Later |[Informed Proposals for Local MCMC in Discrete Spaces](https://www.tandfonline.com/doi/full/10.1080/01621459.2019.1585255)|| |
 
